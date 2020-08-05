@@ -1,0 +1,65 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 0px;
+}
+label {
+  margin-bottom: 0px;
+}
+ul {
+  margin-bottom: 0px;
+}
+
+.custom-input label {
+  color: #5a7184;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+.custom-input label span {
+  font-size: 14px;
+  margin-left: 10px;
+}
+.custom-input {
+  margin-bottom: 30px;
+}
+.custom-input input {
+  padding: 15px;
+  height: 60px;
+  color: #959ead;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  border: 1px solid #c3cad9;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.custom-input select {
+  padding: 15px;
+  height: 60px;
+  color: #959ead;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  border: 1px solid #c3cad9;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.custom-input textarea {
+  padding: 15px;
+  color: #959ead;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 22px;
+  border: 1px solid #c3cad9;
+  border-radius: 8px;
+}
+.custom-input .form-control:focus {
+  border: 1px solid #1eba68;
+  box-shadow: none !important;
+}
